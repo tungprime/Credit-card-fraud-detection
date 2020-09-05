@@ -38,3 +38,19 @@ We will compare the performances of these models as well as their trade-offs. Ou
 
 Acknowledgement: I learned about Autoencoder from Matt Plourde during my internship at Kibo Commerce. I am grateful to Matt for introducing me to Autoencoder and his clear presentation about it.  
 
+
+References
+Here are some references that we use throughout this project.
+
+[1] Step-By-Step Framework for Imbalanced Classification Projects
+
+https://machinelearningmastery.com/framework-for-imbalanced-classification-projects/
+
+This article provides an overview of different methods to deal with imbalanced classification problems.
+
+[2] Credit Card Fraud Detection using Autoencoders in Keras | TensorFlow for Hackers (Part VII)
+
+https://www.curiousily.com/posts/credit-card-fraud-detection-using-autoencoders-in-keras/
+
+This article explains how to implement autoencoder for the same credit card problem that we are solving. We borrow some of the key ideas in this article to build our autoencoder model.
+
