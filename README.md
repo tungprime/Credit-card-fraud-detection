@@ -1,4 +1,5 @@
- **Why we worked on this project?**
+ #Why we worked on this project? 
+ 
 Credit card frauds are a serious problem. According to the following <a href="https://www.meetup.com/PyDataChi/events/271789356"> source, </a> in 2018, $24.26 Billion was lost due to payment card fraud worldwide. Furthermore, credit fraud is climbing: There is an 18.4 percent increase in 2018. Recent advancements in machine learning and deep learning should help banks make precise decisions. 
 
 That is precisely the purpose of this project. More precisely, we will train several machine learning models to predict credit card frauds from public data that is available at
