@@ -1,3 +1,4 @@
+ # Why we worked on this project? 
  
 Credit card frauds are a serious problem. According to the following <a href="https://www.meetup.com/PyDataChi/events/271789356"> source, </a> in 2018, $24.26 Billion was lost due to payment card fraud worldwide. Furthermore, credit fraud is climbing: There is an 18.4 percent increase in 2018. Recent advancements in machine learning and deep learning should help banks make precise decisions. 
 
@@ -36,5 +37,24 @@ Finally, we can also use deep learning to detect the minority class by an anomal
 
 We will compare the performances of these models as well as their trade-offs. Our codes are written in the jupyter notebook "Credit_card_fraud.ipynb". The results of our models are recorded in the excel file "Credit card fraud results.xlsx". 
 
-Acknowledgement: I learned about Autoencoder from Matt Plourde during my internship at Kibo Commerce. I am grateful to Matt for introducing me to Autoencoder and his clear presentation about it.  
+# Acknowledgement
+
+I learned about Autoencoder from Matt Plourde during my internship at Kibo Commerce. I am grateful to Matt for introducing me to Autoencoder and his clear presentation about it.  
+
+
+# References
+
+Here are some references that we use throughout this project.
+
+[1] Step-By-Step Framework for Imbalanced Classification Projects
+
+https://machinelearningmastery.com/framework-for-imbalanced-classification-projects/
+
+This article provides an overview of different methods to deal with imbalanced classification problems.
+
+[2] Credit Card Fraud Detection using Autoencoders in Keras | TensorFlow for Hackers (Part VII)
+
+https://www.curiousily.com/posts/credit-card-fraud-detection-using-autoencoders-in-keras/
+
+This article explains how to implement autoencoder for the same credit card problem that we are solving. We borrow some of the key ideas in this article to build our autoencoder model.
 
