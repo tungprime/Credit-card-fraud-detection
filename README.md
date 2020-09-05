@@ -39,7 +39,8 @@ We will compare the performances of these models as well as their trade-offs. Ou
 **Acknowledgement**: I learned about Autoencoder from Matt Plourde during my internship at Kibo Commerce. I am grateful to Matt for introducing me to Autoencoder and his clear presentation about it.  
 
 
-**References**
+**References.**
+
 Here are some references that we use throughout this project.
 
 [1] Step-By-Step Framework for Imbalanced Classification Projects
