@@ -37,6 +37,12 @@ Finally, we can also use deep learning to detect the minority class by an anomal
 
 We will compare the performances of these models as well as their trade-offs. Our codes are written in the jupyter notebook "Credit_card_fraud.ipynb". The results of our models are recorded in the excel file "Credit card fraud results.xlsx". 
 
+# Our results 
+Most of our models have more than 90% recall scores. 
+
+Depending on our clients'priorities, we would recommend different models. For example, if our client simply wants to prevent fraud, we recommend the logistic regression with SMOTE and decision tree with SMOTE. However, if our clients prefer a balance between precision-recall, decision, and cost-sensitive SVM are better models.
+
+
 # Acknowledgement
 
 I learned about Autoencoder from Matt Plourde during my internship at Kibo Commerce. I am grateful to Matt for introducing me to Autoencoder and his clear presentation about it.  
